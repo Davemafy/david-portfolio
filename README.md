@@ -1,4 +1,4 @@
-# David Imafidon — Portfolio
+# David Imafidon - Portfolio
 
 An editorial frontend engineering portfolio focused on the interface and the product systems behind it.
 
