@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="David Imafidon monogram">
+  <circle cx="32" cy="32" r="30" fill="#0A0A0A"/>
+  <rect x="21.5" y="10.5" width="5.5" height="43" rx="2.75" fill="#F3EFE6"/>
+  <path d="M27 18.5H35C43.8 18.5 49 23.7 49 32C49 40.3 43.8 45.5 35 45.5H27Z" fill="#F3EFE6"/>
+  <rect x="21.5" y="10.5" width="5.5" height="43" rx="2.75" fill="#F3EFE6"/>
+  <path d="M47.8 45.8L54.4 47.8L52.4 54.4L45.8 52.4Z" fill="#B8FF00"/>
+</svg>
